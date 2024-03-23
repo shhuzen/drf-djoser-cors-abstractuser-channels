@@ -43,6 +43,7 @@ python manage.py runserver
 
 ```
 /admin/
+
 /api/v1/users/
 
 /api/v1/users/me/
@@ -78,8 +79,4 @@ python manage.py runserver
 /api/v1/user-detail/<id>
 
 /api/v1/user-detail/
-
-
-
-
 ```
