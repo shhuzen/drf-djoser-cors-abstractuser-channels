@@ -2,14 +2,16 @@
 
 # Disclaimer
 
-# DJANGO REST-FRAMEWORK DJOSER CORS ABSTRACTUSER CHANNELS
+this git for fast start backend on python
+
+## DJANGO REST-FRAMEWORK DJOSER CORS ABSTRACTUSER CHANNELS
 
 ## Stack
 
-- [DJANGO]
-- [DJOSER FOR AUTH](https://djoser.readthedocs.io/en/latest/getting_started.html)
-- [CHANNELS 4 - LIVETIME MESSAGES GROUP](https://channels.readthedocs.io/en/latest/)
-- [DRF - API ](https://www.django-rest-framework.org/)
+- [DJANGO](https://www.djangoproject.com/)
+- [DJOSER - FOR AUTH](https://djoser.readthedocs.io/en/latest/getting_started.html)
+- [CHANNELS - LIVETIME MESSAGES GROUP](https://channels.readthedocs.io/en/latest/)
+- [DRF - API](https://www.django-rest-framework.org/)
 - [PILLOW - IMG](https://pypi.org/project/pillow/)
 - [django-cleanup - CLEANER STATIC](https://pypi.org/project/django-cleanup/)
 
@@ -18,8 +20,8 @@
 ```
 git clone https://github.com/shhuzen/drf-djoser-cors-abstractuser-channels.git
 cd drf-djoser-cors-abstractuser-channels
-python3.11 -m venv env  # or python3.11
-source env/bin/Activate
+python3.11 -m venv env  # or python
+source env/bin/Activate or  source env/Scripts/activate
 pip install -r requirements.txt
 ```
 
