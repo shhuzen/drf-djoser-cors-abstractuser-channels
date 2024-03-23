@@ -78,5 +78,4 @@ python manage.py runserver
 
 /api/v1/user-detail/<id>
 
-/api/v1/user-detail/
 ```
