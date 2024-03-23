@@ -15,13 +15,23 @@ this git for fast start backend on python
 - [PILLOW - IMG](https://pypi.org/project/pillow/)
 - [django-cleanup - CLEANER STATIC](https://pypi.org/project/django-cleanup/)
 
-## Install
+## Install MacOs / Linux / Ubuntu
 
 ```
 git clone https://github.com/shhuzen/drf-djoser-cors-abstractuser-channels.git
 cd drf-djoser-cors-abstractuser-channels
-python3.11 -m venv env  # or python
-source env/bin/Activate or  source env/Scripts/activate
+python3.11 -m venv env
+source env/bin/Activate
+pip install -r requirements.txt
+```
+
+# Install Windows
+
+```
+git clone https://github.com/shhuzen/drf-djoser-cors-abstractuser-channels.git
+cd drf-djoser-cors-abstractuser-channels
+python3.11 -m venv env
+source env/Scripts/activate
 pip install -r requirements.txt
 ```
 
